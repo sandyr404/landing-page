@@ -175,3 +175,14 @@ ul {
   font-size: 24px;
   margin-bottom: 5px;
 }
+
+/* footer */
+
+.footer {
+  background-color: #1f2937;
+  height: 70px;
+  color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
